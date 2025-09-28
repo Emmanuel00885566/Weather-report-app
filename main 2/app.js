@@ -1,5 +1,0 @@
-console.log('Welcome to NodeJs Bootcamp MAIN')
-console.log('Welcome to NodeJs Bootcamp at TechCrush')
-console.log('directory: ', __dirname)
-console.log('file: ', __filename) 
-console.log(process)

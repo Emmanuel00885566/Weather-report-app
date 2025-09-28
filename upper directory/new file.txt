@@ -1,9 +1,0 @@
-cd 
-cd ..
-cd <name of the folder>
-pwd
-ls
-mkdir
-rmdir
-cp
-mv
