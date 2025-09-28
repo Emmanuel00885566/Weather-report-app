@@ -1,2 +1,2 @@
-# Weather-report-app
-A mini project on Weather Report Mock App
+# Weather Report Mock App
+This is a group project that demonstrates query strings, conditional responses, and JSON handling.
