@@ -6,7 +6,7 @@ function check() {
         continue 
         
     else {
-        console.log("City not found.")
+        console.log("City not found in database.")
     }
     
 }
