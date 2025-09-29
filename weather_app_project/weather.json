@@ -1,7 +1,7 @@
 {
   "nigeria_weather_reports": [
     {
-      "state": "Ebonyi",
+      "state": "abakaliki",
       "temperature": { "current": 27, "high": 31, "low": 23, "unit": "°C" },
       "precipitation": "61%",
       "wind": "14 km/h SW",
@@ -12,7 +12,7 @@
       "pressure": "1012 hPa"
     },
     {
-      "state": "Edo",
+      "state": "benin",
       "temperature": { "current": 28, "high": 32, "low": 24, "unit": "°C" },
       "precipitation": "72%",
       "wind": "11 km/h S",
@@ -23,7 +23,7 @@
       "pressure": "1008 hPa"
     },
     {
-      "state": "Ekiti",
+      "state": "ado-ekiti",
       "temperature": { "current": 26, "high": 30, "low": 22, "unit": "°C" },
       "precipitation": "59%",
       "wind": "13 km/h W",
@@ -34,7 +34,7 @@
       "pressure": "1011 hPa"
     },
     {
-      "state": "Enugu",
+      "state": "enugu",
       "temperature": { "current": 29, "high": 33, "low": 25, "unit": "°C" },
       "precipitation": "64%",
       "wind": "10 km/h SE",
@@ -45,7 +45,7 @@
       "pressure": "1009 hPa"
     },
     {
-      "state": "Gombe",
+      "state": "gombe",
       "temperature": { "current": 30, "high": 34, "low": 26, "unit": "°C" },
       "precipitation": "23%",
       "wind": "16 km/h NE",
@@ -56,7 +56,7 @@
       "pressure": "1006 hPa"
     },
     {
-      "state": "Imo",
+      "state": "owerri",
       "temperature": { "current": 28, "high": 31, "low": 25, "unit": "°C" },
       "precipitation": "78%",
       "wind": "9 km/h SW",
@@ -67,7 +67,7 @@
       "pressure": "1007 hPa"
     },
     {
-      "state": "Jigawa",
+      "state": "dutse",
       "temperature": { "current": 33, "high": 37, "low": 28, "unit": "°C" },
       "precipitation": "12%",
       "wind": "18 km/h N",
@@ -78,7 +78,7 @@
       "pressure": "1003 hPa"
     },
     {
-      "state": "Kaduna",
+      "state": "kaduna",
       "temperature": { "current": 28, "high": 32, "low": 24, "unit": "°C" },
       "precipitation": "37%",
       "wind": "15 km/h NW",
@@ -89,7 +89,7 @@
       "pressure": "1015 hPa"
     },
     {
-      "state": "Kano",
+      "state": "kano",
       "temperature": { "current": 31, "high": 35, "low": 26, "unit": "°C" },
       "precipitation": "17%",
       "wind": "20 km/h NNE",
@@ -100,7 +100,7 @@
       "pressure": "1004 hPa"
     },
     {
-      "state": "Katsina",
+      "state": "katsina",
       "temperature": { "current": 32, "high": 36, "low": 27, "unit": "°C" },
       "precipitation": "9%",
       "wind": "17 km/h NE",
@@ -111,7 +111,7 @@
       "pressure": "1005 hPa"
     },
     {
-      "state": "Kebbi",
+      "state": "birnin-kebbi",
       "temperature": { "current": 34, "high": 38, "low": 29, "unit": "°C" },
       "precipitation": "7%",
       "wind": "19 km/h NW",
@@ -122,7 +122,7 @@
       "pressure": "1002 hPa"
     },
     {
-      "state": "Kogi",
+      "state": "lokoja",
       "temperature": { "current": 27, "high": 31, "low": 23, "unit": "°C" },
       "precipitation": "65%",
       "wind": "12 km/h SSW",
@@ -133,7 +133,7 @@
       "pressure": "1010 hPa"
     },
     {
-      "state": "Kwara",
+      "state": "ilorin",
       "temperature": { "current": 29, "high": 33, "low": 24, "unit": "°C" },
       "precipitation": "54%",
       "wind": "13 km/h WSW",
@@ -144,7 +144,7 @@
       "pressure": "1012 hPa"
     },
     {
-      "state": "Lagos",
+      "state": "ikeja",
       "temperature": { "current": 30, "high": 32, "low": 27, "unit": "°C" },
       "precipitation": "85%",
       "wind": "15 km/h S",
@@ -155,7 +155,7 @@
       "pressure": "1007 hPa"
     },
     {
-      "state": "Nasarawa",
+      "state": "lafia",
       "temperature": { "current": 28, "high": 32, "low": 24, "unit": "°C" },
       "precipitation": "46%",
       "wind": "14 km/h SE",
@@ -166,7 +166,7 @@
       "pressure": "1013 hPa"
     },
     {
-      "state": "Niger",
+      "state": "minna",
       "temperature": { "current": 27, "high": 31, "low": 22, "unit": "°C" },
       "precipitation": "52%",
       "wind": "12 km/h SW",
@@ -177,7 +177,7 @@
       "pressure": "1014 hPa"
     },
     {
-      "state": "Ogun",
+      "state": "abeokuta",
       "temperature": { "current": 28, "high": 31, "low": 25, "unit": "°C" },
       "precipitation": "77%",
       "wind": "10 km/h SSW",
@@ -188,7 +188,7 @@
       "pressure": "1008 hPa"
     },
     {
-      "state": "Osun",
+      "state": "osogbo",
       "temperature": { "current": 27, "high": 30, "low": 24, "unit": "°C" },
       "precipitation": "57%",
       "wind": "9 km/h SW",
@@ -199,7 +199,7 @@
       "pressure": "1011 hPa"
     },
     {
-      "state": "Oyo",
+      "state": "ibadan",
       "temperature": { "current": 28, "high": 32, "low": 25, "unit": "°C" },
       "precipitation": "68%",
       "wind": "12 km/h S",
@@ -210,7 +210,7 @@
       "pressure": "1010 hPa"
     },
     {
-      "state": "Plateau",
+      "state": "jos",
       "temperature": { "current": 21, "high": 25, "low": 17, "unit": "°C" },
       "precipitation": "41%",
       "wind": "14 km/h NE",
@@ -221,7 +221,7 @@
       "pressure": "1016 hPa"
     },
     {
-      "state": "Rivers",
+      "state": "port harcourt",
       "temperature": { "current": 29, "high": 32, "low": 26, "unit": "°C" },
       "precipitation": "82%",
       "wind": "11 km/h SSE",
@@ -232,7 +232,7 @@
       "pressure": "1007 hPa"
     },
     {
-      "state": "Sokoto",
+      "state": "sokoto",
       "temperature": { "current": 35, "high": 39, "low": 30, "unit": "°C" },
       "precipitation": "3%",
       "wind": "20 km/h NE",
@@ -243,7 +243,7 @@
       "pressure": "1002 hPa"
     },
     {
-      "state": "Taraba",
+      "state": "jalingo",
       "temperature": { "current": 29, "high": 33, "low": 25, "unit": "°C" },
       "precipitation": "53%",
       "wind": "15 km/h ESE",
@@ -254,7 +254,7 @@
       "pressure": "1010 hPa"
     },
     {
-      "state": "Yobe",
+      "state": "damaturu",
       "temperature": { "current": 32, "high": 36, "low": 28, "unit": "°C" },
       "precipitation": "6%",
       "wind": "18 km/h N",
@@ -265,7 +265,7 @@
       "pressure": "1004 hPa"
     },
     {
-      "state": "Zamfara",
+      "state": "gusau",
       "temperature": { "current": 31, "high": 35, "low": 27, "unit": "°C" },
       "precipitation": "14%",
       "wind": "16 km/h NE",
