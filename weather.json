@@ -1,5 +1,5 @@
 {
-  "nigeria_weather_reports": [
+  "cities_in_nigeria_weather_reports": [
     {
       "city": "umuahia",
       "temperature": { "current": 24, "high": 28, "low": 23, "unit": "°C" },
