@@ -1,12 +1,13 @@
+import 
 
 function check() {
     let city = .json
 
-    if (.json = true);
+    if (city = true);
         continue 
         
     else {
-        console.log("City not found in database.")
+        console.log("Location not found.");
     }
-    
+    console.log(city)
 }
