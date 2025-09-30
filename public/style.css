@@ -1,0 +1,172 @@
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #e0f7fa 0%, #f5f5f5 100%);
+    min-height: 100vh;
+    color: #222;
+}
+
+.container {
+    background: #fff;
+    border-radius: 16px;
+    border: 2px solid #3498db;
+    margin: 40px auto;
+    box-shadow: 0 8px 32px rgba(52, 152, 219, 0.15), 0 1.5px 6px #ccc;
+    max-width: 480px;
+    padding: 32px 24px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 24px;
+}
+
+h1 {
+    color: #3498db;
+    text-align: center;
+    margin: 0 0 8px 0;
+    font-size: 2.2rem;
+    letter-spacing: 1px;
+}
+
+.app-description {
+    font-size: 1.1rem;
+    color: #555;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.info-list {
+    background: #eaf6fb;
+    border-radius: 8px;
+    padding: 12px 18px;
+    margin: 0 0 8px 0;
+    font-size: 0.98rem;
+    color: #333;
+    list-style: disc inside;
+}
+.info-list li {
+    margin-bottom: 4px;
+    
+}
+
+form {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 18px 16px;
+    border-radius: 10px;
+    background: #f8fbff;
+    box-shadow: 0 0 8px rgba(52,152,219,0.08);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+label {
+    font-weight: 500;
+    color: #2980b9;
+    margin-bottom: 2px;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 0 0 8px 0;
+    font-size: 1rem;
+    border: 1.5px solid #3498db;
+    border-radius: 6px;
+    box-sizing: border-box;
+    transition: border-color 0.2s;
+}
+input:focus {
+    border-color: #2980b9;
+    outline: none;
+}
+
+button {
+    width: 100%;
+    background: linear-gradient(90deg, #3498db 60%, #2980b9 100%);
+    color: #fff;
+    padding: 12px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1.08rem;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(52,152,219,0.08);
+    transition: background 0.2s;
+}
+button:hover {
+    background: linear-gradient(90deg, #2980b9 60%, #3498db 100%);
+}
+
+.spinner {
+    display: none;
+    margin: 20px auto;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+#weatherResult {
+    margin-top: 18px;
+    padding: 18px 12px;
+    border-radius: 8px;
+    background: #eaf6fb;
+    border: 1px solid #3498db;
+    min-height: 60px;
+    box-shadow: 0 0 8px rgba(52,152,219,0.05);
+    color: #222;
+    font-size: 1.05rem;
+}
+.weather-details h2 {
+    color: #3498db;
+    margin-bottom: 8px;
+    font-size: 1.3rem;
+}
+.weather-details p {
+    margin: 4px 0;
+    font-size: 1.05rem;
+    color: #333;
+}
+
+.instructions {
+    background: #f8fbff;
+    border-radius: 8px;
+    padding: 12px 18px;
+    margin-top: 10px;
+    box-shadow: 0 0 8px rgba(52,152,219,0.05);
+}
+.instructions h3 {
+    color: #2980b9;
+    margin-bottom: 6px;
+    font-size: 1.08rem;
+}
+.instructions ol {
+    margin: 0;
+    padding-left: 18px;
+    color: #333;
+    font-size: 0.98rem;
+}
+
+@media (max-width: 600px) {
+    .container {
+        max-width: 98vw;
+        padding: 12px 4vw;
+    }
+    form {
+        padding: 12px 4vw;
+    }
+    #weatherResult {
+        padding: 10px 4vw;
+    }
+}

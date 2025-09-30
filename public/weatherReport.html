@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Report App</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <main>
+        <section class="container" aria-labelledby="main-title">
+            <h1 id="main-title">Weather Report</h1>
+            <p class="app-description">Get weather updates for cities in Nigeria.</p>
+            <ul class="info-list">
+                <li>Example cities: <strong>Lagos</strong>, <strong>Ebonyi</strong>, <strong>Calabar</strong></li>
+                <li>Weather data includes: temperature, humidity, wind speed, weather condition</li>
+                
+            </ul>
+            <form id="weatherForm" aria-label="Weather search form">
+                <label for="city">Enter City Name:</label>
+                <input type="text" id="city" name="city" placeholder="e.g. Calabar">
+                <button type="submit">Get Weather</button>
+            </form>
+            <div class="spinner" id="loadingSpinner"></div>
+            <div id="weatherResult">
+                
+            </div>
+            <div class="instructions">
+                <h3>How to use:</h3>
+                <ol>
+                    <li>Type the name of a city in the input box.</li>
+                    <li>Click "Get Weather".</li>
+                    <li>View the weather details below.</li>
+                </ol>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
