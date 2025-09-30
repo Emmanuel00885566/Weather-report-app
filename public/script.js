@@ -1,5 +1,5 @@
 
-const API_URL = 'https://localhost:3000/api/weather';
+const API_URL = 'http://localhost:3000/api/weather';
 
         document.getElementById('weatherForm').addEventListener('submit', async function(e) {
             e.preventDefault();

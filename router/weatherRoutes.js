@@ -1,9 +1,8 @@
 import express from "express";
-import { getHomePage, getCityWeather } from "../controllers/weatherController.js";
+import { getCityWeather } from "../controller/weatherController.js";
 
 const router = express.Router();
 
-router.get("/", getHomePage);
-router.post("/city", getCityWeather);
+router.get("/:city", getCityWeather);
 
 export default router;
