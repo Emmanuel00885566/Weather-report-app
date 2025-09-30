@@ -1,22 +1,22 @@
+// controllers/weatherController.js
 import fs from "fs";
-import express from "express";
 import path from "path";
 import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-
-const router = express.Router();
-
+// Read weather.json
 const dataPath = path.join(__dirname, "../data/weather.json");
 const data = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
 
-router.get("/", (req, res) => {
+// Controller: serve homepage
+export const getHomePage = (req, res) => {
   res.sendFile(path.join(__dirname, "../", "views", "index.html"));
-});
+};
 
-router.post("/city", (req, res) => {
+// Controller: handle city search
+export const getCityWeather = (req, res) => {
   const cityName = req.body.city?.toLowerCase();
   if (!cityName) {
     return res.send("<h1>Please enter a city name.</h1>");
@@ -37,6 +37,4 @@ router.post("/city", (req, res) => {
   } else {
     res.send("<h1>Sorry, City not found.</h1>");
   }
-});
-
-export default router;
+};
