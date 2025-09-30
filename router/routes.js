@@ -21,9 +21,17 @@ router.post("/city", (req, res) => {
   if (!cityName) {
     return res.send("<h1>Please enter a city name.</h1>");
   }
-  
+
+  if (cityName === "all") {
+    return res.send(
+      data
+        .map((item) => `<p>${item.city}: ${item.temperature.current}°C</p>`)
+        .join("")
+    );
+  }
+
   const cityData = data.find((item) => item.city.toLowerCase() === cityName);
-  
+
   if (cityData) {
     res.send(`<h1>${cityData.city} is ${cityData.temperature.current}°C</h1>`);
   } else {
