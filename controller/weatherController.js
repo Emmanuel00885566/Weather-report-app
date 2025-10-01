@@ -9,7 +9,7 @@ const dataPath = path.join(__dirname, "../data/weather.json");
 const data = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
 
 export const getCityWeather = (req, res) => {
-  const cityName = req.params.city?.toLowerCase();
+  const cityName = req.query.city?.toLowerCase(); // ✅ now using query
 
   if (!cityName) {
     return res.status(400).json({ error: "Please provide a city name." });
@@ -27,3 +27,4 @@ export const getCityWeather = (req, res) => {
     res.status(404).json({ error: "City not found" });
   }
 };
+

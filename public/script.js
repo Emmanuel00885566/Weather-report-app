@@ -11,7 +11,7 @@ const API_URL = 'http://localhost:3000/api/weather';
             resultDiv.innerHTML = '';
 
             try {
-                const response = await fetch(`${API_URL}/${(city)}`);
+                const response = await fetch(`${API_URL}?city=${city}`);
                 if (!response.ok) throw new Error('City not found');
                 const data = await response.json();
 
