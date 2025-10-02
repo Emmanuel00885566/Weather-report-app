@@ -1,0 +1,323 @@
+{
+    "umuahia":{
+    "temperature":"28°C" ,
+    "precipitation": "91%",
+    "wind": "11 km/h SW",
+    "humidity": "93%",
+    "condition": "Cloudy",
+    "pressure": "1015 hPa"
+  },
+  "Yola":{
+    "temperature":"34°C",
+    "precipitation": "25%",
+    "wind": "11 km/h S",
+    "humidity": "83%",
+    "condition": "Mostly cloudy",
+    "pressure": "1013 hPa"
+  },
+  "Uyo":{
+    "temperature":"23°C",
+    "precipitation": "96%",
+    "wind": "9 km/h W",
+    "humidity": "96%",
+    "condition": "Mostly cloudy",
+    "pressure": "1016 hPa"
+  },
+  "Awka":{
+    "temperature":"26°C",
+    "precipitation": "72%",
+    "wind": "11 km/h SW",
+    "humidity": "88%",
+    "condition": "Cloudy",
+    "pressure": "1015 hPa"
+  },
+    "Bauchi":{
+    "temperature":"33°C",
+    "precipitation": "10%",
+    "wind": "7 km/h SE",
+    "humidity": "73%",
+    "condition": "Hazy sunshine",
+    "pressure": "1014 hPa"
+  },
+  "Yenagoa":{
+    "temperature":"27°C",
+    "precipitation": "25%",
+    "wind": "7 km/h NW",
+    "humidity": "87%",
+    "condition": "Cloudy",
+    "pressure": "1015 hPa"
+  },
+  "Makurdi":{
+    "temperature":" 31°C",
+    "precipitation": "74%",
+    "wind": "11 km/h SW",
+    "humidity": "83%",
+    "condition": "Cloudy",
+    "pressure": "1014 hPa"
+  },
+   "Maiduguri":{
+    "temperature":"36°C",
+    "precipitation": "2%",
+    "wind": "11 km/h W",
+    "humidity": "62%",
+    "condition": "Hazy sunshine",
+    "pressure": "1013 hPa"
+  },
+  "Calabar":{
+    "temperature": "29°C",
+    "precipitation": "96%",
+    "wind": "7 km/h WNW",
+    "humidity": "92%",
+    "condition": "Mostly cloudy",
+    "pressure": "1014 hPa"
+  },
+  "Asaba":{
+    "temperature": " 28°C",
+    "precipitation": "88%",
+    "wind": "11 km/h WSW",
+    "humidity": "87%",
+    "condition": "Cloudy",
+    "pressure": "1015 hPa"
+  },
+   "Akure":{
+    "temperature": "25°C",
+    "precipitation": "80%",
+    "wind": "9 km/h SW",
+    "humidity": "85%",
+    "condition": "Cloudy",
+    "pressure": "1015 hPa"
+  },
+   "Abuja":{
+    "temperature": "27°C",
+    "precipitation": "55%",
+    "wind": "11 km/h WSW",
+    "humidity": "85%",
+    "condition": "Cloudy",
+    "pressure": "1017 hPa"
+  },
+    "Abakaliki":{
+    "temperature": " 31°C",
+    "precipitation": "61%",
+    "wind": "14 km/h SW",
+    "humidity": "77%",
+    "condition": "Warm with Light Rain",
+    "pressure": "1012 hPa"
+  },
+   "Benin":{
+    "temperature": "32°C",
+    "precipitation": "72%",
+    "wind": "11 km/h S",
+    "humidity": "82%",
+    "condition": "Heavy Showers",
+    "pressure": "1008 hPa"
+  },
+   "Ado-ekiti":{
+    "temperature": " 30°C",
+    "precipitation": "59%",
+    "wind": "13 km/h W",
+    "humidity": "78%",
+    "condition": "Intermittent Rain",
+    "pressure": "1011 hPa"
+  },
+   "Enugu":{
+    "temperature": "33°C",
+    "precipitation": "64%",
+    "wind": "10 km/h SE",
+    "humidity": "84%",
+    "condition": "Humid with Thunderstorms",
+    "pressure": "1009 hPa"
+  },
+  "Gombe":{
+    "temperature": "26°C",
+    "precipitation": "23%",
+    "wind": "16 km/h NE",
+    "humidity": "55%",
+    "condition": "Partly Sunny",
+    "pressure": "1006 hPa"
+  },
+   "Owerri":{
+    "temperature": "31°C",
+    "precipitation": "78%",
+    "wind": "9 km/h SW",
+    "humidity": "88%",
+    "condition": "Persistent Rain",
+    "pressure": "1007 hPa"
+  },
+  "Dutse":{
+    "temperature": "37°C",
+    "precipitation": "12%",
+    "wind": "18 km/h N",
+    "humidity": "40%",
+    "condition": "Dry and Hazy",
+    "pressure": "1003 hPa"
+  },
+   "kaduna":{
+    "temperature": "32°C",
+    "precipitation": "37%",
+    "wind": "15 km/h NW",
+    "humidity": "62%",
+    "condition": "Cool with Passing Clouds",
+    "pressure": "1015 hPa"
+  },
+   "kano":{
+    "temperature": " 35°C",
+    "precipitation": "17%",
+    "wind": "20 km/h NNE",
+    "humidity": "46%",
+    "condition": "Hot and Dusty",
+    "pressure": "1004 hPa"
+  },
+  "katsina":{
+    "temperature": "36°C",
+    "precipitation": "9%",
+    "wind": "17 km/h NE",
+    "humidity": "44%",
+    "condition": "Sunny and Dry",
+    "pressure": "1005 hPa"
+  },
+   "Birnin-kebbi":{
+    "temperature": "38°C",
+    "precipitation": "7%",
+    "wind": "19 km/h NW",
+    "humidity": "39%",
+    "condition": "Scorching Heat",
+    "pressure": "1002 hPa"
+  },
+  "Lokoja":{
+    "temperature": "31°C",
+    "precipitation": "65%",
+    "wind": "12 km/h SSW",
+    "humidity": "81%",
+    "condition": "Cloudbursts",
+    "pressure": "1010 hPa"
+  },
+   "Ilorin":{
+    "temperature": "33°C",
+    "precipitation": "54%",
+    "wind": "13 km/h WSW",
+    "humidity": "73%",
+    "condition": "Showers with Thunder",
+    "pressure": "1012 hPa"
+  },
+  "Ikeja":{
+    "temperature": "32°C",
+    "precipitation": "85%",
+    "wind": "15 km/h S",
+    "humidity": "90%",
+    "condition": "Heavy Coastal Rains",
+    "pressure": "1007 hPa"
+  },
+   "Lafia":{
+    "temperature": "32°C",
+    "precipitation": "46%",
+    "wind": "14 km/h SE",
+    "humidity": "70%",
+    "condition": "Scattered Clouds",
+    "pressure": "1013 hPa"
+  },
+   "Minna":{
+    "temperature": "31°C",
+    "precipitation": "52%",
+    "wind": "12 km/h SW",
+    "humidity": "75%",
+    "condition": "Light Rain Showers",
+    "pressure": "1014 hPa"
+  },
+   "Abeokuta":{
+    "temperature": "31°C",
+    "precipitation": "77%",
+    "wind": "10 km/h SSW",
+    "humidity": "85%",
+    "condition": "Rain with Thunder",
+    "pressure": "1008 hPa"
+  },
+   "Osogbo":{
+    "temperature": "30°C",
+    "precipitation": "57%",
+    "wind": "9 km/h SW",
+    "humidity": "76%",
+    "condition": "Partly Cloudy Skies",
+    "pressure": "1011 hPa"
+  },
+   "Ibadan":{
+    "temperature": "32°C",
+    "precipitation": "68%",
+    "wind": "12 km/h S",
+    "humidity": "80%",
+    "condition": "Scattered Showers",
+    "pressure": "1010 hPa"
+  },
+   "Jos":{
+    "temperature": "25°C",
+    "precipitation": "41%",
+    "wind": "14 km/h NE",
+    "humidity": "67%",
+    "condition": "Cool and Breezy",
+    "pressure": "1016 hPa"
+  },
+  "Port Harcourt":{
+    "temperature": "32°C",
+    "precipitation": "82%",
+    "wind": "11 km/h SSE",
+    "humidity": "87%",
+    "condition": "Tropical Storms",
+    "pressure": "1007 hPa"
+  },
+   "Sokoto":{
+    "temperature": "39°C",
+    "precipitation": "3%",
+    "wind": "20 km/h NE",
+    "humidity": "36%",
+    "condition": "Blazing Sun",
+    "pressure": "1002 hPa"
+  },
+   "Jalingo":{
+    "temperature": "33°C",
+    "precipitation": "53%",
+    "wind": "15 km/h ESE",
+    "humidity": "74%",
+    "condition": "Rainy Spells",
+    "pressure": "1010 hPa"
+  },
+   "Damaturu":{
+    "temperature": "36°C",
+    "precipitation": "6%",
+    "wind": "18 km/h N",
+    "humidity": "43%",
+    "condition": "Dry Heat",
+    "pressure": "1004 hPa"
+  },
+  "Gusau":{
+    "temperature": "35°C",
+    "precipitation": "14%",
+    "wind": "16 km/h NE",
+    "humidity": "48%",
+    "condition": "Hot with Hazy Skies",
+    "pressure": "1006 hPa"
+  },
+  "Aba":{
+    "temperature": "39°C",
+    "precipitation": "16%",
+    "wind": "14 km/h NE",
+    "humidity": "88%",
+    "condition": "Hot",
+    "pressure": "1010 hPa"
+  },
+   "Abakiliki":{
+    "temperature": "23°C",
+    "precipitation": "16%",
+    "wind": "14 km/h NE",
+    "humidity": "98%",
+    "condition": "Light rain",
+    "pressure": "1015 hPa"
+  },
+    "Afikpo":{
+    "temperature": "22°C",
+    "precipitation": "17%",
+    "wind": "10 km/h NE",
+    "humidity": "97%",
+    "condition": "Overcast clouds",
+    "pressure": "1015 hPa"
+  }
+  
+}
