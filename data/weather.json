@@ -1,6 +1,6 @@
 [
   {
-    "city": "umuahia",
+    "umuahia": {
     "temperature": { "current": 24, "high": 28, "low": 23, "unit": "°C" },
     "precipitation": "91%",
     "wind": "11 km/h SW",
@@ -9,9 +9,10 @@
     "sunrise": "06:18 AM",
     "sunset": "06:23 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "aba",
+    "aba":{
     "temperature": { "current": 22, "high": 28, "low": 23, "unit": "°C" },
     "precipitation": "91%",
     "wind": "9 km/h NW",
@@ -20,9 +21,10 @@
     "sunrise": "06:18 AM",
     "sunset": "06:23 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "yola",
+    "yola":{
     "temperature": { "current": 26, "high": 34, "low": 24, "unit": "°C" },
     "precipitation": "25%",
     "wind": "11 km/h S",
@@ -31,9 +33,10 @@
     "sunrise": "05:59 AM",
     "sunset": "06:02 PM",
     "pressure": "1013 hPa"
+    }
   },
   {
-    "city": "mubi",
+    "mubi":{
     "temperature": { "current": 22, "high": 34, "low": 24, "unit": "°C" },
     "precipitation": "25%",
     "wind": "11 km/h SW",
@@ -42,9 +45,10 @@
     "sunrise": "05:59 AM",
     "sunset": "06:02 PM",
     "pressure": "1013 hPa"
+    }
   },
   {
-    "city": "uyo",
+    "uyo":{
     "temperature": { "current": 23, "high": 28, "low": 23, "unit": "°C" },
     "precipitation": "96%",
     "wind": "9 km/h W",
@@ -53,9 +57,10 @@
     "sunrise": "06:17 AM",
     "sunset": "06:22 PM",
     "pressure": "1016 hPa"
+    }
   },
   {
-    "city": "eket",
+    "eket":{
     "temperature": { "current": 23, "high": 28, "low": 23, "unit": "°C" },
     "precipitation": "96%",
     "wind": "10 km/h NW",
@@ -64,9 +69,10 @@
     "sunrise": "06:17 AM",
     "sunset": "06:22 PM",
     "pressure": "1016 hPa"
+    }
   },
   {
-    "city": "awka",
+    "awka":{
     "temperature": { "current": 23, "high": 26, "low": 22, "unit": "°C" },
     "precipitation": "72%",
     "wind": "11 km/h SW",
@@ -75,9 +81,10 @@
     "sunrise": "06:20 AM",
     "sunset": "06:24 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "onitsha",
+    "onitsha":{
     "temperature": { "current": 23, "high": 26, "low": 22, "unit": "°C" },
     "precipitation": "72%",
     "wind": "9 km/h SW",
@@ -86,9 +93,10 @@
     "sunrise": "06:20 AM",
     "sunset": "06:24 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "bauchi",
+    "bauchi":{
     "temperature": { "current": 27, "high": 33, "low": 21, "unit": "°C" },
     "precipitation": "10%",
     "wind": "7 km/h SE",
@@ -97,9 +105,10 @@
     "sunrise": "06:09 AM",
     "sunset": "06:13 PM",
     "pressure": "1014 hPa"
+    }
   },
   {
-    "city": "misau",
+    "misau":{
     "temperature": { "current": 25, "high": 33, "low": 21, "unit": "°C" },
     "precipitation": "10%",
     "wind": "13 km/h WSW",
@@ -108,9 +117,10 @@
     "sunrise": "06:09 AM",
     "sunset": "06:13 PM",
     "pressure": "1014 hPa"
+    }
   },
   {
-    "city": "yenagoa",
+    "yenagoa":{
     "temperature": { "current": 25, "high": 27, "low": 23, "unit": "°C" },
     "precipitation": "25%",
     "wind": "7 km/h NW",
@@ -119,9 +129,10 @@
     "sunrise": "06:23 AM",
     "sunset": "06:28 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "brass",
+    "brass":{
     "temperature": { "current": 25, "high": 27, "low": 23, "unit": "°C" },
     "precipitation": "21%",
     "wind": "11 km/h NNE",
@@ -130,9 +141,10 @@
     "sunrise": "06:23 AM",
     "sunset": "06:28 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "makurdi",
+    "makurdi":{
     "temperature": { "current": 26, "high": 31, "low": 23, "unit": "°C" },
     "precipitation": "74%",
     "wind": "11 km/h SW",
@@ -141,9 +153,10 @@
     "sunrise": "06:14 AM",
     "sunset": "06:18 PM",
     "pressure": "1014 hPa"
+    }
   },
   {
-    "city": "buruku",
+    "buruku":{
     "temperature": { "current": 21, "high": 31, "low": 23, "unit": "°C" },
     "precipitation": "74%",
     "wind": "11 km/h SSW",
@@ -152,9 +165,10 @@
     "sunrise": "06:14 AM",
     "sunset": "06:18 PM",
     "pressure": "1014 hPa"
+    }
   },
   {
-    "city": "maiduguri",
+    "maiduguri":{
     "temperature": { "current": 28, "high": 36, "low": 22, "unit": "°C" },
     "precipitation": "2%",
     "wind": "11 km/h W",
@@ -163,9 +177,10 @@
     "sunrise": "05:57 AM",
     "sunset": "05:59 PM",
     "pressure": "1013 hPa"
+    }
   },
   {
-    "city": "gwoza",
+    "gwoza":{
     "temperature": { "current": 24, "high": 36, "low": 22, "unit": "°C" },
     "precipitation": "2%",
     "wind": "13 km/h SW",
@@ -174,9 +189,10 @@
     "sunrise": "05:57 AM",
     "sunset": "05:59 PM",
     "pressure": "1013 hPa"
+    }
   },
   {
-    "city": "calabar",
+    "calabar":{
     "temperature": { "current": 25, "high": 29, "low": 23, "unit": "°C" },
     "precipitation": "96%",
     "wind": "7 km/h WNW",
@@ -185,9 +201,10 @@
     "sunrise": "06:15 AM",
     "sunset": "06:19 PM",
     "pressure": "1014 hPa"
+    }
   },
   {
-    "city": "ikom",
+    "ikom":{
     "temperature": { "current": 24, "high": 29, "low": 23, "unit": "°C" },
     "precipitation": "93%",
     "wind": "7 km/h W",
@@ -196,9 +213,10 @@
     "sunrise": "06:15 AM",
     "sunset": "06:19 PM",
     "pressure": "1014 hPa"
+    }
   },  
   {
-    "city": "asaba",
+    "asaba":{
     "temperature": { "current": 25, "high": 28, "low": 23, "unit": "°C" },
     "precipitation": "88%",
     "wind": "11 km/h WSW",
@@ -207,9 +225,10 @@
     "sunrise": "06:21 AM",
     "sunset": "06:25 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "warri",
+    "warri":{
     "temperature": { "current": 24, "high": 28, "low": 23, "unit": "°C" },
     "precipitation": "88%",
     "wind": "9 km/h WNW",
@@ -218,9 +237,10 @@
     "sunrise": "06:21 AM",
     "sunset": "06:25 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "akure",
+    "akure":{
     "temperature": { "current": 25, "high": 29, "low": 22, "unit": "°C" },
     "precipitation": "80%",
     "wind": "9 km/h SW",
@@ -229,9 +249,10 @@
     "sunrise": "06:28 AM",
     "sunset": "06:33 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "abuja",
+    "abuja":{
     "temperature": { "current": 23, "high": 27, "low": 20, "unit": "°C" },
     "precipitation": "55%",
     "wind": "11 km/h WSW",
@@ -240,9 +261,10 @@
     "sunrise": "06:18 AM",
     "sunset": "06:22 PM",
     "pressure": "1017 hPa"
+    }
   },
   {
-    "city": "abakaliki",
+    "abakaliki":{
     "temperature": { "current": 27, "high": 31, "low": 23, "unit": "°C" },
     "precipitation": "61%",
     "wind": "14 km/h SW",
@@ -251,9 +273,10 @@
     "sunrise": "06:18 AM",
     "sunset": "06:32 PM",
     "pressure": "1012 hPa"
+    }
   },
   {
-    "city": "benin",
+    "benin":{
     "temperature": { "current": 28, "high": 32, "low": 24, "unit": "°C" },
     "precipitation": "72%",
     "wind": "11 km/h S",
@@ -262,9 +285,10 @@
     "sunrise": "06:19 AM",
     "sunset": "06:33 PM",
     "pressure": "1008 hPa"
+    }
   },
   {
-    "city": "ado-ekiti",
+    "ado-ekiti":{
     "temperature": { "current": 26, "high": 30, "low": 22, "unit": "°C" },
     "precipitation": "59%",
     "wind": "13 km/h W",
@@ -273,9 +297,10 @@
     "sunrise": "06:16 AM",
     "sunset": "06:30 PM",
     "pressure": "1011 hPa"
+    }
   },
   {
-    "city": "enugu",
+    "enugu":{
     "temperature": { "current": 29, "high": 33, "low": 25, "unit": "°C" },
     "precipitation": "64%",
     "wind": "10 km/h SE",
@@ -284,9 +309,10 @@
     "sunrise": "06:17 AM",
     "sunset": "06:31 PM",
     "pressure": "1009 hPa"
+    }
   },
   {
-    "city": "gombe",
+    "gombe":{
     "temperature": { "current": 30, "high": 34, "low": 26, "unit": "°C" },
     "precipitation": "23%",
     "wind": "16 km/h NE",
@@ -295,9 +321,10 @@
     "sunrise": "06:12 AM",
     "sunset": "06:27 PM",
     "pressure": "1006 hPa"
+    }
   },
   {
-    "city": "owerri",
+    "owerri":{
     "temperature": { "current": 28, "high": 31, "low": 25, "unit": "°C" },
     "precipitation": "78%",
     "wind": "9 km/h SW",
@@ -306,9 +333,10 @@
     "sunrise": "06:18 AM",
     "sunset": "06:32 PM",
     "pressure": "1007 hPa"
+    }
   },
   {
-    "city": "dutse",
+    "dutse":{
     "temperature": { "current": 33, "high": 37, "low": 28, "unit": "°C" },
     "precipitation": "12%",
     "wind": "18 km/h N",
@@ -317,9 +345,10 @@
     "sunrise": "06:07 AM",
     "sunset": "06:23 PM",
     "pressure": "1003 hPa"
+    }
   },
   {
-    "city": "kaduna",
+    "kaduna":{
     "temperature": { "current": 28, "high": 32, "low": 24, "unit": "°C" },
     "precipitation": "37%",
     "wind": "15 km/h NW",
@@ -328,9 +357,10 @@
     "sunrise": "06:09 AM",
     "sunset": "06:25 PM",
     "pressure": "1015 hPa"
+    }
   },
   {
-    "city": "kano",
+    "kano":{
     "temperature": { "current": 31, "high": 35, "low": 26, "unit": "°C" },
     "precipitation": "17%",
     "wind": "20 km/h NNE",
@@ -339,9 +369,10 @@
     "sunrise": "06:08 AM",
     "sunset": "06:24 PM",
     "pressure": "1004 hPa"
+    }
   },
   {
-    "city": "katsina",
+    "katsina":{
     "temperature": { "current": 32, "high": 36, "low": 27, "unit": "°C" },
     "precipitation": "9%",
     "wind": "17 km/h NE",
@@ -350,9 +381,10 @@
     "sunrise": "06:07 AM",
     "sunset": "06:23 PM",
     "pressure": "1005 hPa"
+    }
   },
   {
-    "city": "birnin-kebbi",
+    "birnin-kebbi":{
     "temperature": { "current": 34, "high": 38, "low": 29, "unit": "°C" },
     "precipitation": "7%",
     "wind": "19 km/h NW",
@@ -361,9 +393,10 @@
     "sunrise": "06:08 AM",
     "sunset": "06:24 PM",
     "pressure": "1002 hPa"
+    }
   },
   {
-    "city": "lokoja",
+    "lokoja":{
     "temperature": { "current": 27, "high": 31, "low": 23, "unit": "°C" },
     "precipitation": "65%",
     "wind": "12 km/h SSW",
@@ -372,9 +405,10 @@
     "sunrise": "06:15 AM",
     "sunset": "06:29 PM",
     "pressure": "1010 hPa"
+    }
   },
   {
-    "city": "ilorin",
+    "ilorin":{
     "temperature": { "current": 29, "high": 33, "low": 24, "unit": "°C" },
     "precipitation": "54%",
     "wind": "13 km/h WSW",
@@ -383,9 +417,10 @@
     "sunrise": "06:14 AM",
     "sunset": "06:28 PM",
     "pressure": "1012 hPa"
+    }
   },
   {
-    "city": "ikeja",
+    "ikeja":{
     "temperature": { "current": 30, "high": 32, "low": 27, "unit": "°C" },
     "precipitation": "85%",
     "wind": "15 km/h S",
@@ -394,9 +429,10 @@
     "sunrise": "06:19 AM",
     "sunset": "06:34 PM",
     "pressure": "1007 hPa"
+    }
   },
   {
-    "city": "lafia",
+    "lafia":{
     "temperature": { "current": 28, "high": 32, "low": 24, "unit": "°C" },
     "precipitation": "46%",
     "wind": "14 km/h SE",
@@ -405,9 +441,10 @@
     "sunrise": "06:13 AM",
     "sunset": "06:28 PM",
     "pressure": "1013 hPa"
+    }
   },
   {
-    "city": "minna",
+    "minna":{
     "temperature": { "current": 27, "high": 31, "low": 22, "unit": "°C" },
     "precipitation": "52%",
     "wind": "12 km/h SW",
@@ -416,9 +453,10 @@
     "sunrise": "06:12 AM",
     "sunset": "06:27 PM",
     "pressure": "1014 hPa"
+    }
   },
   {
-    "city": "abeokuta",
+    "abeokuta":{
     "temperature": { "current": 28, "high": 31, "low": 25, "unit": "°C" },
     "precipitation": "77%",
     "wind": "10 km/h SSW",
@@ -427,9 +465,10 @@
     "sunrise": "06:17 AM",
     "sunset": "06:31 PM",
     "pressure": "1008 hPa"
+    }
   },
   {
-    "city": "osogbo",
+    "osogbo":{
     "temperature": { "current": 27, "high": 30, "low": 24, "unit": "°C" },
     "precipitation": "57%",
     "wind": "9 km/h SW",
@@ -438,9 +477,10 @@
     "sunrise": "06:15 AM",
     "sunset": "06:30 PM",
     "pressure": "1011 hPa"
+    }
   },
   {
-    "city": "ibadan",
+    "ibadan":{
     "temperature": { "current": 28, "high": 32, "low": 25, "unit": "°C" },
     "precipitation": "68%",
     "wind": "12 km/h S",
@@ -449,9 +489,10 @@
     "sunrise": "06:14 AM",
     "sunset": "06:29 PM",
     "pressure": "1010 hPa"
+    }
   },
   {
-    "city": "jos",
+    "jos":{
     "temperature": { "current": 21, "high": 25, "low": 17, "unit": "°C" },
     "precipitation": "41%",
     "wind": "14 km/h NE",
@@ -460,9 +501,10 @@
     "sunrise": "06:10 AM",
     "sunset": "06:26 PM",
     "pressure": "1016 hPa"
+    }
   },
   {
-    "city": "port harcourt",
+    "port harcourt":{
     "temperature": { "current": 29, "high": 32, "low": 26, "unit": "°C" },
     "precipitation": "82%",
     "wind": "11 km/h SSE",
@@ -471,9 +513,10 @@
     "sunrise": "06:17 AM",
     "sunset": "06:32 PM",
     "pressure": "1007 hPa"
+    }
   },
   {
-    "city": "sokoto",
+    "sokoto":{
     "temperature": { "current": 35, "high": 39, "low": 30, "unit": "°C" },
     "precipitation": "3%",
     "wind": "20 km/h NE",
@@ -482,9 +525,10 @@
     "sunrise": "06:08 AM",
     "sunset": "06:24 PM",
     "pressure": "1002 hPa"
+    }
   },
   {
-    "city": "jalingo",
+    "jalingo":{
     "temperature": { "current": 29, "high": 33, "low": 25, "unit": "°C" },
     "precipitation": "53%",
     "wind": "15 km/h ESE",
@@ -493,9 +537,10 @@
     "sunrise": "06:09 AM",
     "sunset": "06:25 PM",
     "pressure": "1010 hPa"
+    }
   },
   {
-    "city": "damaturu",
+    "damaturu":{
     "temperature": { "current": 32, "high": 36, "low": 28, "unit": "°C" },
     "precipitation": "6%",
     "wind": "18 km/h N",
@@ -504,9 +549,10 @@
     "sunrise": "06:06 AM",
     "sunset": "06:22 PM",
     "pressure": "1004 hPa"
+    }
   },
   {
-    "city": "gusau",
+    "gusau":{
     "temperature": { "current": 31, "high": 35, "low": 27, "unit": "°C" },
     "precipitation": "14%",
     "wind": "16 km/h NE",
@@ -515,5 +561,6 @@
     "sunrise": "06:09 AM",
     "sunset": "06:25 PM",
     "pressure": "1006 hPa"
+    }
   }
 ]
