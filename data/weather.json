@@ -11,12 +11,34 @@
     "pressure": "1015 hPa"
   },
   {
+    "city": "aba",
+    "temperature": { "current": 22, "high": 28, "low": 23, "unit": "°C" },
+    "precipitation": "91%",
+    "wind": "9 km/h NW",
+    "humidity": "89%",
+    "weather": "Cloudy",
+    "sunrise": "06:18 AM",
+    "sunset": "06:23 PM",
+    "pressure": "1015 hPa"
+  },
+  {
     "city": "yola",
     "temperature": { "current": 26, "high": 34, "low": 24, "unit": "°C" },
     "precipitation": "25%",
     "wind": "11 km/h S",
     "humidity": "83%",
     "weather": "Mostly cloudy",
+    "sunrise": "05:59 AM",
+    "sunset": "06:02 PM",
+    "pressure": "1013 hPa"
+  },
+  {
+    "city": "mubi",
+    "temperature": { "current": 22, "high": 34, "low": 24, "unit": "°C" },
+    "precipitation": "25%",
+    "wind": "11 km/h SW",
+    "humidity": "88%",
+    "weather": "Cloudy",
     "sunrise": "05:59 AM",
     "sunset": "06:02 PM",
     "pressure": "1013 hPa"
@@ -33,6 +55,17 @@
     "pressure": "1016 hPa"
   },
   {
+    "city": "eket",
+    "temperature": { "current": 23, "high": 28, "low": 23, "unit": "°C" },
+    "precipitation": "96%",
+    "wind": "10 km/h NW",
+    "humidity": "93%",
+    "weather": "Rain",
+    "sunrise": "06:17 AM",
+    "sunset": "06:22 PM",
+    "pressure": "1016 hPa"
+  },
+  {
     "city": "awka",
     "temperature": { "current": 23, "high": 26, "low": 22, "unit": "°C" },
     "precipitation": "72%",
@@ -44,11 +77,33 @@
     "pressure": "1015 hPa"
   },
   {
+    "city": "onitsha",
+    "temperature": { "current": 23, "high": 26, "low": 22, "unit": "°C" },
+    "precipitation": "72%",
+    "wind": "9 km/h SW",
+    "humidity": "93%",
+    "weather": "Rain",
+    "sunrise": "06:20 AM",
+    "sunset": "06:24 PM",
+    "pressure": "1015 hPa"
+  },
+  {
     "city": "bauchi",
     "temperature": { "current": 27, "high": 33, "low": 21, "unit": "°C" },
     "precipitation": "10%",
     "wind": "7 km/h SE",
     "humidity": "73%",
+    "weather": "Hazy sunshine",
+    "sunrise": "06:09 AM",
+    "sunset": "06:13 PM",
+    "pressure": "1014 hPa"
+  },
+  {
+    "city": "misau",
+    "temperature": { "current": 25, "high": 33, "low": 21, "unit": "°C" },
+    "precipitation": "10%",
+    "wind": "13 km/h WSW",
+    "humidity": "83%",
     "weather": "Hazy sunshine",
     "sunrise": "06:09 AM",
     "sunset": "06:13 PM",
@@ -66,11 +121,33 @@
     "pressure": "1015 hPa"
   },
   {
+    "city": "brass",
+    "temperature": { "current": 25, "high": 27, "low": 23, "unit": "°C" },
+    "precipitation": "21%",
+    "wind": "11 km/h NNE",
+    "humidity": "90%",
+    "weather": "Rain",
+    "sunrise": "06:23 AM",
+    "sunset": "06:28 PM",
+    "pressure": "1015 hPa"
+  },
+  {
     "city": "makurdi",
     "temperature": { "current": 26, "high": 31, "low": 23, "unit": "°C" },
     "precipitation": "74%",
     "wind": "11 km/h SW",
     "humidity": "83%",
+    "weather": "Cloudy",
+    "sunrise": "06:14 AM",
+    "sunset": "06:18 PM",
+    "pressure": "1014 hPa"
+  },
+  {
+    "city": "buruku",
+    "temperature": { "current": 21, "high": 31, "low": 23, "unit": "°C" },
+    "precipitation": "74%",
+    "wind": "11 km/h SSW",
+    "humidity": "94%",
     "weather": "Cloudy",
     "sunrise": "06:14 AM",
     "sunset": "06:18 PM",
@@ -88,6 +165,17 @@
     "pressure": "1013 hPa"
   },
   {
+    "city": "gwoza",
+    "temperature": { "current": 24, "high": 36, "low": 22, "unit": "°C" },
+    "precipitation": "2%",
+    "wind": "13 km/h SW",
+    "humidity": "81%",
+    "weather": "Hazy sunshine",
+    "sunrise": "05:57 AM",
+    "sunset": "05:59 PM",
+    "pressure": "1013 hPa"
+  },
+  {
     "city": "calabar",
     "temperature": { "current": 25, "high": 29, "low": 23, "unit": "°C" },
     "precipitation": "96%",
@@ -99,11 +187,33 @@
     "pressure": "1014 hPa"
   },
   {
+    "city": "ikom",
+    "temperature": { "current": 24, "high": 29, "low": 23, "unit": "°C" },
+    "precipitation": "93%",
+    "wind": "7 km/h W",
+    "humidity": "92%",
+    "weather": "A shower",
+    "sunrise": "06:15 AM",
+    "sunset": "06:19 PM",
+    "pressure": "1014 hPa"
+  },  
+  {
     "city": "asaba",
     "temperature": { "current": 25, "high": 28, "low": 23, "unit": "°C" },
     "precipitation": "88%",
     "wind": "11 km/h WSW",
     "humidity": "87%",
+    "weather": "Cloudy",
+    "sunrise": "06:21 AM",
+    "sunset": "06:25 PM",
+    "pressure": "1015 hPa"
+  },
+  {
+    "city": "warri",
+    "temperature": { "current": 24, "high": 28, "low": 23, "unit": "°C" },
+    "precipitation": "88%",
+    "wind": "9 km/h WNW",
+    "humidity": "92%",
     "weather": "Cloudy",
     "sunrise": "06:21 AM",
     "sunset": "06:25 PM",
