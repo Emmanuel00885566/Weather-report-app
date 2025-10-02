@@ -1,136 +1,542 @@
 {
-  "cities_in_nigeria_weather_reports": [
-    {
-      "city": "umuahia",
-      "temperature": { "current": 24, "high": 28, "low": 23, "unit": "°C" },
-      "precipitation": "91%",
-      "wind": "11 km/h SW",
-      "humidity": "93%",
-      "weather": "Cloudy",
-      "sunrise": "06:18 AM",
-      "sunset": "06:23 PM",
-      "pressure": "1015 hPa"
-    },
-    {
-      "city": "yola",
-      "temperature": { "current": 26, "high": 34, "low": 24, "unit": "°C" },
-      "precipitation": "25%",
-      "wind": "11 km/h S",
-      "humidity": "83%",
-      "weather": "Mostly cloudy",
-      "sunrise": "05:59 AM",
-      "sunset": "06:02 PM",
-      "pressure": "1013 hPa"
-    },
-    {
-      "city": "uyo",
-      "temperature": { "current": 23, "high": 28, "low": 23, "unit": "°C" },
-      "precipitation": "96%",
-      "wind": "9 km/h W",
-      "humidity": "96%",
-      "weather": "Mostly cloudy",
-      "sunrise": "06:17 AM",
-      "sunset": "06:22 PM",
-      "pressure": "1016 hPa"
-    },
-    {
-      "city": "awka",
-      "temperature": { "current": 23, "high": 26, "low": 22, "unit": "°C" },
-      "precipitation": "72%",
-      "wind": "11 km/h SW",
-      "humidity": "88%",
-      "weather": "Cloudy",
-      "sunrise": "06:20 AM",
-      "sunset": "06:24 PM",
-      "pressure": "1015 hPa"
-    },
-    {
-      "city": "bauchi",
-      "temperature": { "current": 27, "high": 33, "low": 21, "unit": "°C" },
-      "precipitation": "10%",
-      "wind": "7 km/h SE",
-      "humidity": "73%",
-      "weather": "Hazy sunshine",
-      "sunrise": "06:09 AM",
-      "sunset": "06:13 PM",
-      "pressure": "1014 hPa"
-    },
-    {
-      "city": "yenagoa",
-      "temperature": { "current": 25, "high": 27, "low": 23, "unit": "°C" },
-      "precipitation": "25%",
-      "wind": "7 km/h NW",
-      "humidity": "87%",
-      "weather": "Cloudy",
-      "sunrise": "06:23 AM",
-      "sunset": "06:28 PM",
-      "pressure": "1015 hPa"
-    },
-    {
-      "city": "makurdi",
-      "temperature": { "current": 26, "high": 31, "low": 23, "unit": "°C" },
-      "precipitation": "74%",
-      "wind": "11 km/h SW",
-      "humidity": "83%",
-      "weather": "Cloudy",
-      "sunrise": "06:14 AM",
-      "sunset": "06:18 PM",
-      "pressure": "1014 hPa"
-    },
-    {
-      "city": "maiduguri",
-      "temperature": { "current": 28, "high": 36, "low": 22, "unit": "°C" },
-      "precipitation": "2%",
-      "wind": "11 km/h W",
-      "humidity": "62%",
-      "weather": "Hazy sunshine",
-      "sunrise": "05:57 AM",
-      "sunset": "05:59 PM",
-      "pressure": "1013 hPa"
-    },
-    {
-      "city": "calabar",
-      "temperature": { "current": 25, "high": 29, "low": 23, "unit": "°C" },
-      "precipitation": "96%",
-      "wind": "7 km/h WNW",
-      "humidity": "92%",
-      "weather": "Mostly cloudy",
-      "sunrise": "06:15 AM",
-      "sunset": "06:19 PM",
-      "pressure": "1014 hPa"
-    },
-    {
-      "city": "asaba",
-      "temperature": { "current": 25, "high": 28, "low": 23, "unit": "°C" },
-      "precipitation": "88%",
-      "wind": "11 km/h WSW",
-      "humidity": "87%",
-      "weather": "Cloudy",
-      "sunrise": "06:21 AM",
-      "sunset": "06:25 PM",
-      "pressure": "1015 hPa"
-    },
-    {
-      "city": "akure",
-      "temperature": { "current": 25, "high": 29, "low": 22, "unit": "°C" },
-      "precipitation": "80%",
-      "wind": "9 km/h SW",
-      "humidity": "85%",
-      "weather": "Cloudy",
-      "sunrise": "06:28 AM",
-      "sunset": "06:33 PM",
-      "pressure": "1015 hPa"
-    },
-    {
-      "city": "abuja",
-      "temperature": { "current": 23, "high": 27, "low": 20, "unit": "°C" },
-      "precipitation": "55%",
-      "wind": "11 km/h WSW",
-      "humidity": "85%",
-      "weather": "Cloudy",
-      "sunrise": "06:18 AM",
-      "sunset": "06:22 PM",
-      "pressure": "1017 hPa"
-    }
-  ]
+  "umuahia": {
+  "temperature": "24°C",
+  "precipitation": "91%",
+  "wind": "11 km/h SW",
+  "humidity": "93%",
+  "weather": "Cloudy",
+  "sunrise": "06:18 AM",
+  "sunset": "06:23 PM",
+  "pressure": "1015 hPa"
+  },
+  "aba":{
+  "temperature": "26°C",
+  "precipitation": "96%",
+  "wind": "9 km/h NW",
+  "humidity": "89%",
+  "weather": "Rain",
+  "sunrise": "06:18 AM",
+  "sunset": "06:22 PM",
+  "pressure": "1014 hPa"
+  },
+  "yola":{
+  "temperature": "26°C",
+  "precipitation": "25%",
+  "wind": "11 km/h S",
+  "humidity": "83%",
+  "weather": "Mostly cloudy",
+  "sunrise": "05:59 AM",
+  "sunset": "06:02 PM",
+  "pressure": "1013 hPa"
+  },
+  "mubi":{
+  "temperature": "29°C",
+  "precipitation": "55%",
+  "wind": "11 km/h WSW",
+  "humidity": "88%",
+  "weather": "Cloudy",
+  "sunrise": "05:56 AM",
+  "sunset": "05:57 PM",
+  "pressure": "1013 hPa"
+  },
+  "uyo":{
+  "temperature": "23°C",
+  "precipitation": "96%",
+  "wind": "9 km/h W",
+  "humidity": "96%",
+  "weather": "Mostly cloudy",
+  "sunrise": "06:17 AM",
+  "sunset": "06:22 PM",
+  "pressure": "1016 hPa"
+  },
+  "eket":{
+  "temperature": "27°C",
+  "precipitation": "57%",
+  "wind": "7 km/h W",
+  "humidity": "78%",
+  "weather": "Cloudy",
+  "sunrise": "06:16 AM",
+  "sunset": "06:20 PM",
+  "pressure": "1013 hPa"
+  },
+  "awka":{
+  "temperature": "23°C",
+  "precipitation": "72%",
+  "wind": "11 km/h SW",
+  "humidity": "88%",
+  "weather": "Cloudy",
+  "sunrise": "06:20 AM",
+  "sunset": "06:24 PM",
+  "pressure": "1015 hPa"
+  },
+  "onitsha":{
+  "temperature": "29°C",
+  "precipitation": "75%",
+  "wind": "9 km/h SW",
+  "humidity": "93%",
+  "weather": "Clouds and sun",
+  "sunrise": "06:20 AM",
+  "sunset": "06:24 PM",
+  "pressure": "1013 hPa"
+  },
+  "bauchi":{
+  "temperature": "27°C",
+  "precipitation": "10%",
+  "wind": "7 km/h SE",
+  "humidity": "73%",
+  "weather": "Hazy sunshine",
+  "sunrise": "06:09 AM",
+  "sunset": "06:13 PM",
+  "pressure": "1014 hPa"
+  },
+  "misau":{
+  "temperature": "25°C",
+  "precipitation": "9%",
+  "wind": "11 km/h SW",
+  "humidity": "51%",
+  "weather": "Hazy sunshine",
+  "sunrise": "06:07 AM",
+  "sunset": "06:08 PM",
+  "pressure": "1012 hPa"
+  },
+  "yenagoa":{
+  "temperature": "25°C",
+  "precipitation": "25%",
+  "wind": "7 km/h NW",
+  "humidity": "87%",
+  "weather": "Cloudy",
+  "sunrise": "06:23 AM",
+  "sunset": "06:28 PM",
+  "pressure": "1015 hPa"
+  },
+  "brass":{
+  "temperature": "24°C",
+  "precipitation": "91%",
+  "wind": "9 km/h W",
+  "humidity": "83%",
+  "weather": "Cloudy",
+  "sunrise": "06:22 AM",
+  "sunset": "06:26 PM",
+  "pressure": "1014 hPa"
+  },
+  "makurdi":{
+  "temperature": "26°C",
+  "precipitation": "74%",
+  "wind": "11 km/h SW",
+  "humidity": "83%",
+  "weather": "Cloudy",
+  "sunrise": "06:14 AM",
+  "sunset": "06:18 PM",
+  "pressure": "1014 hPa"
+  },
+  "buruku":{
+  "temperature": "21°C",
+  "precipitation": "55%",
+  "wind": "11 km/h SSW",
+  "humidity": "69%",
+  "weather": "Partly Sunny",
+  "sunrise": "06:20 AM",
+  "sunset": "06:21 PM",
+  "pressure": "1016 hPa"
+  },
+  "maiduguri":{
+  "temperature": "28°C",
+  "precipitation": "2%",
+  "wind": "11 km/h W",
+  "humidity": "62%",
+  "weather": "Hazy sunshine",
+  "sunrise": "05:57 AM",
+  "sunset": "05:59 PM",
+  "pressure": "1013 hPa"
+  },
+  "gwoza":{
+  "temperature": "31°C",
+  "precipitation": "55%",
+  "wind": "13 km/h SW",
+  "humidity": "59%",
+  "weather": "Hazy sunshine",
+  "sunrise": "05:54 AM",
+  "sunset": "05:55 PM",
+  "pressure": "1012 hPa"
+  },
+  "calabar":{
+  "temperature": "25°C",
+  "precipitation": "96%",
+  "wind": "7 km/h WNW",
+  "humidity": "92%",
+  "weather": "Mostly cloudy",
+  "sunrise": "06:15 AM",
+  "sunset": "06:19 PM",
+  "pressure": "1014 hPa"
+  },
+  "ikom":{
+  "temperature": "28°C",
+  "precipitation": "93%",
+  "wind": "7 km/h W",
+  "humidity": "74%",
+  "weather": "A shower",
+  "sunrise": "06:13 AM",
+  "sunset": "06:17 PM",
+  "pressure": "1013 hPa"
+  },
+  "asaba":{
+  "temperature": "25°C",
+  "precipitation": "88%",
+  "wind": "11 km/h WSW",
+  "humidity": "87%",
+  "weather": "Cloudy",
+  "sunrise": "06:21 AM",
+  "sunset": "06:25 PM",
+  "pressure": "1015 hPa"
+  },
+  "warri":{
+  "temperature": "27°C",
+  "precipitation": "91%",
+  "wind": "9 km/h WNW",
+  "humidity": "92%",
+  "weather": "Rain",
+  "sunrise": "06:24 AM",
+  "sunset": "06:28 PM",
+  "pressure": "1013 hPa"
+  },
+  "akure":{
+  "temperature": "25°C",
+  "precipitation": "80%",
+  "wind": "9 km/h SW",
+  "humidity": "85%",
+  "weather": "Cloudy",
+  "sunrise": "06:28 AM",
+  "sunset": "06:33 PM",
+  "pressure": "1015 hPa"
+  },
+  "idanre":{
+  "temperature": "25°C",
+  "precipitation": "60%",
+  "wind": "9 km/h S",
+  "humidity": "80%",
+  "weather": "Cloudy",
+  "sunrise": "06:27 AM",
+  "sunset": "06:30 PM",
+  "pressure": "1014 hPa"
+  },
+  "abuja":{
+  "temperature": "25°C",
+  "precipitation": "55%",
+  "wind": "11 km/h WSW",
+  "humidity": "85%",
+  "weather": "Cloudy",
+  "sunrise": "06:18 AM",
+  "sunset": "06:22 PM",
+  "pressure": "1017 hPa"
+  },
+  "abaji":{
+  "temperature": "29°C",
+  "precipitation": "71%",
+  "wind": "9 km/h SSE",
+  "humidity": "71%",
+  "weather": "Cloudy",
+  "sunrise": "06:20 AM",
+  "sunset": "06:23 PM",
+  "pressure": "1014 hPa"
+  },
+  "abakaliki":{
+  "temperature": "27°C",
+  "precipitation": "61%",
+  "wind": "14 km/h SW",
+  "humidity": "77%",
+  "weather": "Warm with Light Rain",
+  "sunrise": "06:18 AM",
+  "sunset": "06:32 PM",
+  "pressure": "1012 hPa"
+  },
+  "afikpo":{
+  "temperature": "29°C",
+  "precipitation": "91%",
+  "wind": "9 km/h SW",
+  "humidity": "72%",
+  "weather": "Cloudy",
+  "sunrise": "06:16 AM",
+  "sunset": "06:19 PM",
+  "pressure": "1013 hPa"
+  },
+  "benin":{
+  "temperature": "28°C",
+  "precipitation": "72%",
+  "wind": "11 km/h S",
+  "humidity": "82%",
+  "weather": "Heavy Showers",
+  "sunrise": "06:19 AM",
+  "sunset": "06:33 PM",
+  "pressure": "1008 hPa"
+  },
+  "auchi":{
+  "temperature": "28°C",
+  "precipitation": "55%",
+  "wind": "9 km/h S",
+  "humidity": "73%",
+  "weather": "Mostly cloudy",
+  "sunrise": "06:22 AM",
+  "sunset": "06:25 PM",
+  "pressure": "1014 hPa"
+  },
+  "ado-ekiti":{
+  "temperature": "26°C",
+  "precipitation": "59%",
+  "wind": "13 km/h W",
+  "humidity": "78%",
+  "weather": "Intermittent Rain",
+  "sunrise": "06:16 AM",
+  "sunset": "06:30 PM",
+  "pressure": "1011 hPa"
+  },
+  "ido-ekiti":{
+  "temperature": "27°C",
+  "precipitation": "80%",
+  "wind": "11 km/h S",
+  "humidity": "71%",
+  "weather": "Cloudy",
+  "sunrise": "06:28 AM",
+  "sunset": "06:30 PM",
+  "pressure": "1013 hPa"
+  },
+  "enugu":{
+  "temperature": "29°C",
+  "precipitation": "64%",
+  "wind": "10 km/h SE",
+  "humidity": "84%",
+  "weather": "Humid with Thunderstorms",
+  "sunrise": "06:17 AM",
+  "sunset": "06:31 PM",
+  "pressure": "1009 hPa"
+  },
+  "nsukka":{
+  "temperature": "27°C",
+  "precipitation": "55%",
+  "wind": "11 km/h SW",
+  "humidity": "71%",
+  "weather": "Cloudy",
+  "sunrise": "06:18 AM",
+  "sunset": "06:21 PM",
+  "pressure": "1014 hPa"
+  },
+  "gombe":{
+  "temperature": "30°C",
+  "precipitation": "23%",
+  "wind": "16 km/h NE",
+  "humidity": "55%",
+  "weather": "Partly Sunny",
+  "sunrise": "06:12 AM",
+  "sunset": "06:27 PM",
+  "pressure": "1006 hPa"
+  },
+  "akko":{
+  "temperature": "30°C",
+  "precipitation": "19%",
+  "wind": "17 km/h SW",
+  "humidity": "63%",
+  "weather": "Partly Sunny",
+  "sunrise": "06:04 AM",
+  "sunset": "06:05 PM",
+  "pressure": "1012 hPa"
+  },
+  "owerri":{
+  "temperature": "28°C",
+  "precipitation": "78%",
+  "wind": "9 km/h SW",
+  "humidity": "91%",
+  "weather": "Clouds and sun",
+  "sunrise": "06:20 AM",
+  "sunset": "06:24 PM",
+  "pressure": "1013 hPa"
+  },
+  "dutse":{
+  "temperature": "33°C",
+  "precipitation": "12%",
+  "wind": "18 km/h N",
+  "humidity": "40%",
+  "weather": "Dry and Hazy",
+  "sunrise": "06:07 AM",
+  "sunset": "06:23 PM",
+  "pressure": "1003 hPa"
+  },
+  "kaduna":{
+  "temperature": "28°C",
+  "precipitation": "37%",
+  "wind": "15 km/h NW",
+  "humidity": "62%",
+  "weather": "Cool with Passing Clouds",
+  "sunrise": "06:09 AM",
+  "sunset": "06:25 PM",
+  "pressure": "1015 hPa"
+  },
+  "kano":{
+  "temperature": "31°C",
+  "precipitation": "17%",
+  "wind": "20 km/h NNE",
+  "humidity": "46%",
+  "weather": "Hot and Dusty",
+  "sunrise": "06:08 AM",
+  "sunset": "06:24 PM",
+  "pressure": "1004 hPa"
+  },
+  "katsina":{
+  "temperature": "32°C",
+  "precipitation": "9%",
+  "wind": "17 km/h NE",
+  "humidity": "44%",
+  "weather": "Sunny and Dry",
+  "sunrise": "06:07 AM",
+  "sunset": "06:23 PM",
+  "pressure": "1005 hPa"
+  },
+  "birnin-kebbi":{
+  "temperature": "34°C",
+  "precipitation": "7%",
+  "wind": "19 km/h NW",
+  "humidity": "39%",
+  "weather": "Scorching Heat",
+  "sunrise": "06:08 AM",
+  "sunset": "06:24 PM",
+  "pressure": "1002 hPa"
+  },
+  "lokoja":{
+  "temperature": "27°C",
+  "precipitation": "65%",
+  "wind": "12 km/h SSW",
+  "humidity": "81%",
+  "weather": "Cloudbursts",
+  "sunrise": "06:15 AM",
+  "sunset": "06:29 PM",
+  "pressure": "1010 hPa"
+  },
+  "ilorin":{
+  "temperature": "29°C",
+  "precipitation": "54%",
+  "wind": "13 km/h WSW",
+  "humidity": "73%",
+  "weather": "Showers with Thunder",
+  "sunrise": "06:14 AM",
+  "sunset": "06:28 PM",
+  "pressure": "1012 hPa"
+  },
+  "ikeja":{
+  "temperature": "30°C",
+  "precipitation": "85%",
+  "wind": "15 km/h S",
+  "humidity": "90%",
+  "weather": "Heavy Coastal Rains",
+  "sunrise": "06:19 AM",
+  "sunset": "06:34 PM",
+  "pressure": "1007 hPa"
+  },
+  "lafia":{
+  "temperature": "28°C",
+  "precipitation": "46%",
+  "wind": "14 km/h SE",
+  "humidity": "70%",
+  "weather": "Scattered Clouds",
+  "sunrise": "06:13 AM",
+  "sunset": "06:28 PM",
+  "pressure": "1013 hPa"
+  },
+  "minna":{
+  "temperature": "27°C",
+  "precipitation": "52%",
+  "wind": "12 km/h SW",
+  "humidity": "75%",
+  "weather": "Light Rain Showers",
+  "sunrise": "06:12 AM",
+  "sunset": "06:27 PM",
+  "pressure": "1014 hPa"
+  },
+  "abeokuta":{
+  "temperature": "28°C",
+  "precipitation": "77%",
+  "wind": "10 km/h SSW",
+  "humidity": "85%",
+  "weather": "Rain with Thunder",
+  "sunrise": "06:17 AM",
+  "sunset": "06:31 PM",
+  "pressure": "1008 hPa"
+  },
+  "osogbo":{
+  "temperature": "27°C",
+  "precipitation": "57%",
+  "wind": "9 km/h SW",
+  "humidity": "76%",
+  "weather": "Partly Cloudy Skies",
+  "sunrise": "06:15 AM",
+  "sunset": "06:30 PM",
+  "pressure": "1011 hPa"
+  },
+  "ibadan":{
+  "temperature": "28°C",
+  "precipitation": "68%",
+  "wind": "12 km/h S",
+  "humidity": "80%",
+  "weather": "Scattered Showers",
+  "sunrise": "06:14 AM",
+  "sunset": "06:29 PM",
+  "pressure": "1010 hPa"
+  },
+  "jos":{
+  "temperature": "21°C",
+  "precipitation": "41%",
+  "wind": "14 km/h NE",
+  "humidity": "67%",
+  "weather": "Cool and Breezy",
+  "sunrise": "06:10 AM",
+  "sunset": "06:26 PM",
+  "pressure": "1016 hPa"
+  },
+  "port harcourt":{
+  "temperature": "29°C",
+  "precipitation": "82%",
+  "wind": "11 km/h SSE",
+  "humidity": "87%",
+  "weather": "Tropical Storms",
+  "sunrise": "06:17 AM",
+  "sunset": "06:32 PM",
+  "pressure": "1007 hPa"
+  },
+  "sokoto":{
+  "temperature": "35°C",
+  "precipitation": "3%",
+  "wind": "20 km/h NE",
+  "humidity": "36%",
+  "weather": "Blazing Sun",
+  "sunrise": "06:08 AM",
+  "sunset": "06:24 PM",
+  "pressure": "1002 hPa"
+  },
+  "jalingo":{
+  "temperature": "29°C",
+  "precipitation": "53%",
+  "wind": "15 km/h ESE",
+  "humidity": "74%",
+  "weather": "Rainy Spells",
+  "sunrise": "06:09 AM",
+  "sunset": "06:25 PM",
+  "pressure": "1010 hPa"
+  },
+  "damaturu":{
+  "temperature": "32°C",
+  "precipitation": "6%",
+  "wind": "18 km/h N",
+  "humidity": "43%",
+  "weather": "Dry Heat",
+  "sunrise": "06:06 AM",
+  "sunset": "06:22 PM",
+  "pressure": "1004 hPa"
+  },
+  "gusau":{
+  "temperature": "31°C",
+  "precipitation": "14%",
+  "wind": "16 km/h NE",
+  "humidity": "48%",
+  "weather": "Hot with Hazy Skies",
+  "sunrise": "06:09 AM",
+  "sunset": "06:25 PM",
+  "pressure": "1006 hPa"
+  }
 }
