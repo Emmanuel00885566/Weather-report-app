@@ -12,7 +12,7 @@ export const getCityWeather = (req, res) => {
   const cityName = req.query.city?.toLowerCase();
 
   if (!cityName) {
-    return res.status(400).json({ error: "Please provide a city name." });
+    return res.status(400).json({ error: "Please provide a valid city name." });
   }
 
  
