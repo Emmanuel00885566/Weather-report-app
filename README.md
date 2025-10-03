@@ -37,6 +37,8 @@ By building this project, we practiced and demonstrated:
 - A query like:
 
 http://localhost:3000/weather?city=calabar
+or 
+http://localhost:3000/api?weather?city=calabar
 
 returns weather details for **Calabar**.  
 If the city is not found, JSON or HTML shows `"City not found"`.
