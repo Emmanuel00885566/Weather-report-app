@@ -1,7 +1,8 @@
 
 # Weather Report App
 
-A simple, modern web application to get weather updates for any cities in Nigeria.
+A simple, modern web application to get weather updates for any cities in Nigeria. It is a group project that demonstrates query strings, conditional responses, and JSON handling.
+
 
 ## Features
 - Search for weather by city name
