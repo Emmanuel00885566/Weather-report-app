@@ -21,6 +21,6 @@ export const getCityWeather = (req, res) => {
   if (cityData) {
     res.json(cityData);
   } else {
-    res.status(404).json({ error: "City not found" });
+    res.status(404).json({ error: "City not found, Try a state capital." });
   }
 };
