@@ -19,16 +19,22 @@ document.getElementById('weatherForm').addEventListener('submit', async function
             
             resultDiv.innerHTML = `<p style="color:red;">${data.error || 'Error fetching weather data.'}</p>`;
         } else {
-            
+          
             resultDiv.innerHTML = `
-                <div class="weather-details">
-                    <h2>${data.city || city}</h2>
-                    <p><strong>Temperature:</strong> ${data.temperature ?? 'N/A'}°C</p>
-                    <p><strong>Condition:</strong> ${data.condition ?? 'N/A'}</p>
-                    <p><strong>Humidity:</strong> ${data.humidity ?? 'N/A'}%</p>
-                    <p><strong>Wind Speed:</strong> ${data.windSpeed ?? 'N/A'} km/h</p>
-                </div>
-            `;
+  <div class="weather-details">
+      <h2>${data.city || city}</h2>
+      <p><strong>Temperature:</strong> ${data.temperature ?? 'N/A'}°C</p>
+      <p><strong>Precipitation:</strong> ${data.precipitation ?? 'N/A'}</p>
+      <p><strong>Wind:</strong> ${data.wind ?? 'N/A'}</p>
+      <p><strong>Humidity:</strong> ${data.humidity ?? 'N/A'}</p>
+      <p><strong>Weather:</strong> ${data.weather ?? 'N/A'}</p>
+      <p><strong>Sunrise:</strong> ${data.sunrise ?? 'N/A'}</p>
+      <p><strong>Sunset:</strong> ${data.sunset ?? 'N/A'}</p>
+      <p><strong>Pressure:</strong> ${data.pressure ?? 'N/A'}</p>
+  </div>
+`;
+
+
         }
     } catch (err) {
         resultDiv.innerHTML = `<p style="color:red;">Failed to connect to server. Please try again later.</p>`;
