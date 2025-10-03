@@ -23,7 +23,7 @@ document.getElementById('weatherForm').addEventListener('submit', async function
             resultDiv.innerHTML = `
   <div class="weather-details">
       <h2>${data.city || city}</h2>
-      <p><strong>Temperature:</strong> ${data.temperature ?? 'N/A'}°C</p>
+      <p><strong>Temperature:</strong> ${data.temperature ?? 'N/A'}</p>
       <p><strong>Precipitation:</strong> ${data.precipitation ?? 'N/A'}</p>
       <p><strong>Wind:</strong> ${data.wind ?? 'N/A'}</p>
       <p><strong>Humidity:</strong> ${data.humidity ?? 'N/A'}</p>
