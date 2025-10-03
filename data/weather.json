@@ -9,7 +9,7 @@
   "sunset": "06:23 PM",
   "pressure": "1015 hPa"
   },
-  "aba":{
+  "aba": {
   "temperature": "26°C",
   "precipitation": "96%",
   "wind": "9 km/h NW",
@@ -19,7 +19,7 @@
   "sunset": "06:22 PM",
   "pressure": "1014 hPa"
   },
-  "yola":{
+  "yola": {
   "temperature": "26°C",
   "precipitation": "25%",
   "wind": "11 km/h S",

@@ -15,11 +15,8 @@ export const getCityWeather = (req, res) => {
     return res.status(400).json({ error: "Please provide a city name." });
   }
 
-  if (cityName === "all") {
-    return res.json(data);
-  }
-
-  const cityData = data.find((item) => item.city.toLowerCase() === cityName);
+ 
+  const cityData = data[cityName];
 
   if (cityData) {
     res.json(cityData);
@@ -27,4 +24,3 @@ export const getCityWeather = (req, res) => {
     res.status(404).json({ error: "City not found" });
   }
 };
-
