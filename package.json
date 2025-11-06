@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Emmanuel00885566/Weather-report-app#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   },
   "devDependencies": {
